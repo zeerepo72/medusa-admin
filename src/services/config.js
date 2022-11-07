@@ -1,6 +1,6 @@
 import { QueryClient } from "react-query"
 
-let medusaUrl = "https://clever-torte-c56cee.netlify.app"
+let medusaUrl = "https://medusa-server-production-0332.up.railway.app"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
