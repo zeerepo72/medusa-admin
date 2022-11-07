@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let baseURL = "http://localhost:9000"
+let baseURL = "https://medusa-server-production-0332.up.railway.app/"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
