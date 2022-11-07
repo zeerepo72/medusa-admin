@@ -1,6 +1,6 @@
 import { QueryClient } from "react-query"
 
-let medusaUrl = "http://localhost:9000"
+let medusaUrl = "https://clever-torte-c56cee.netlify.app"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
